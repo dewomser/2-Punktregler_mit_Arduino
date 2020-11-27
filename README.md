@@ -1,5 +1,5 @@
 # 2-Punktregler_mit_Arduino
-[![TestCompile](https://github.com/dewomser/2-Punktregler_mit_Arduino/workflows/TestCompile/badge.svg)](/actions)
+[![TestCompile](https://github.com/dewomser/2-Punktregler_mit_Arduino/workflows/TestCompile/badge.svg)](https://github.com/dewomser/2-Punktregler_mit_Arduino/actions)
 
 Arduinocode zur Blumentopffeuchteüberwachung, feste Hysterese , Schaltpunkt im EEPROM
 
