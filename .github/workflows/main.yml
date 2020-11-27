@@ -11,5 +11,5 @@ jobs:
       - name: Compile all examples
         uses: ArminJo/arduino-test-compile@master
         with:
-          sketch-names: blumentopf.ino
+          sketch-names: Blumentopf_sketch.ino
           required-libraries: EEPROM
