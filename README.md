@@ -1,4 +1,4 @@
-# 2-Punktregler_mit_Aduino
+# 2-Punktregler_mit_Arduino
 Arduinocode zur Blumentopffeuchteüberwachung, feste Hysterese , Schaltpunkt im EEPROM
 
 Getestet mit Arduino Duemilanove
